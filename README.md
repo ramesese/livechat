@@ -1,2 +1,2 @@
 # livechat
-a live chat
+a live chat made in ReactJS + RxJS
